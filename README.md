@@ -1,0 +1,1 @@
+This is a simple console-based slot machine game implemented in Python. The player starts by depositing money and then places bets on up to three lines. The game randomly generates symbols in a 4x4 grid, and winnings are calculated based on matching symbols in the selected lines.
